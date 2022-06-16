@@ -1,5 +1,8 @@
 # File-Handling-and-String-Manipulation (Using Python)
 
+Link to the Dataset:
+https://trainings.internshala.com/uploads/python-for-data-science-ds-specialization/uploads/projects/v_1/2419067/6294e9679c78e.zip
+
 A sample script of Game of Thrones was taken from the page and stored in the file conv.txt
 in the dataset provided. Make sure to complete all the tasks and follow the submission
 guidelines.
